@@ -1,0 +1,17 @@
+.container{
+  width: 300px;
+  margin: 0 auto;
+}
+.input{
+  margin: 20px 0;
+  outline: none;
+  position: relative;
+  width: 300px;
+  display: block;
+}
+.span{
+  display: block;
+  width: 0%;
+  background-color: red;
+  height: 1px;
+}
